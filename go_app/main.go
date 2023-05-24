@@ -14,7 +14,7 @@ func reverseWord(word string) string {
 
 func main() {
 	// Replace "Phone" with the word you want to reverse
-	word := "tacocat"
+	word := "Phone"
 	reversedWord := reverseWord(word)
 	fmt.Println(reversedWord) // Output: edoc
 	fmt.Println("\nDone.")
